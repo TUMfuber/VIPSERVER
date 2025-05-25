@@ -4,7 +4,6 @@
   "description": "This is the LC Munich EESTEC Server",
   "license": "MIT",
   "author": "Francesco Uber",
-  "type": "commonjs",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
